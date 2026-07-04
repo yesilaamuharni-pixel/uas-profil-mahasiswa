@@ -134,7 +134,7 @@ nav a:hover{
 
 <section class="hero">
 
-    <h1>Sistem Profil Mahasiswa</h1>
+    <h1>Selamat Datang di Website Profil Mahasiswa</h1>
 
     <p>Website Berbasis Laravel</p>
 
