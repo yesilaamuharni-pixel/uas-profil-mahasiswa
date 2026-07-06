@@ -10,6 +10,4 @@ Route::get('/profil', function () {
     return view('profil');
 });
 
-Route::get('/tentang', function () {
-    return view('tentang');
-});
+//Route::get('/tentang', function () {return view('tentang');});
