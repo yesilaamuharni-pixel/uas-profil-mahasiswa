@@ -129,7 +129,7 @@ nav a:hover{
 <nav>
     <a href="/">Home</a>
     <a href="/profil">Profil</a>
-    <a href="/tentang">Tentang</a>
+    <!-- <a href="/tentang">Tentang</a> -->
 </nav>
 
 <section class="hero">
